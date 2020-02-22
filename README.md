@@ -5,3 +5,5 @@ First of all when you clone this repository you have to open yantra-maanav.py fi
 than install **requirements.txt**
 
 `pip install -r requirements.txt`
+
+**And now run the main yantra maanav file :smile:**
